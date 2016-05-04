@@ -1,0 +1,30 @@
+body {
+	background-image: url(../images/cater.jpg);
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+.black {
+	background-color: rgba(0, 0, 0);
+	color: white;
+	width: 95%;
+	height: 95%;
+	margin: 2.5%;
+	padding: 2% 5%;
+	border-radius: 20px;
+}
+
+.portrait {
+	height: 15%;
+	width: 15%;
+	border-radius: 100%;
+	margin: 0% 42.5%;
+}
+
+p {
+	font-size: 20px;
+}
+
+.cta {
+	font-size: 36px;
+}
